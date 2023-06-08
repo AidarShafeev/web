@@ -5,8 +5,8 @@ import Drums from '../assets/img/D.jpg';
 import Simon from '../assets/img/Simon.PNG';
 import TicTacToe from '../assets/img/TicTacToe.PNG';
 import Keeper from '../assets/img/Keeper.PNG';
-import ToDo from '../assets/img/ToDo.PNG';
-import Website from '../assets/img/man1.png';
+import Cart from '../assets/img/cart.PNG';
+import Expense from '../assets/img/expenses.png';
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
@@ -46,18 +46,18 @@ export const Projects = () => {
 
 
         {
-        title: "To Do App",
-         description: "An app to keep track of daily tasks",
-        imgUrl: ToDo,
-        url:"https://aidarshafeev.github.io/to-do-app/"
+        title: "Food App",
+         description: "Dummy e-commerse web app",
+        imgUrl: Cart,
+        url:"https://aidarshafeev.github.io/food-app/"
         },
 
         
          {
-         title: "My portfolio website",
-         description: "React.js-based personal website",
-         imgUrl: Website,
-         url:"#home"
+         title: "Expense App",
+         description: "React.js-based personal expense tracker",
+         imgUrl: Expense,
+         url:"https://aidarshafeev.github.io/expenses-app/"
         },
 
     ];
