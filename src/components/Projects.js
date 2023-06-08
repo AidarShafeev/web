@@ -6,7 +6,7 @@ import Simon from '../assets/img/Simon.PNG';
 import TicTacToe from '../assets/img/TicTacToe.PNG';
 import Keeper from '../assets/img/Keeper.PNG';
 import Cart from '../assets/img/cart.PNG';
-import Expense from '../assets/img/expenses.png';
+import Expense from '../assets/img/expenses.PNG';
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
