@@ -722,3 +722,11 @@ banner a {
   margin-left: 15%;
   list-style: none !important;
 }
+
+#desc {
+  color:rgba(255, 255, 255, 1)
+}
+
+#desctitle {
+  color:rgba(255, 255, 255, 1)
+}
